@@ -1,0 +1,76 @@
+.purple-color{
+    color: #8845f4;
+}
+.body{
+   font-family: sans-serif;
+   color:#777777;
+   line-height:20px;
+}
+
+.half-width{
+    width: 50%;
+    float: left;
+}
+.half-width1{
+    width: 50%;
+    float: left;
+    
+}
+.half-width2{
+    width: 40%;
+    float: right;
+}
+.side-img{
+    width: 50%;
+    padding:10% 0% 0% 40%;
+    }
+.primary-btn{
+    color: white;
+    background-color: #8845f4;
+    padding: 15px 42px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+.primary-btn1{
+    color: white;
+    background-color: #8845f4;
+    padding: 15px 39px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+h1{
+    font-size: 2.5em;
+}
+.container{
+    padding-left: 8%;
+    display: inline-block;
+}
+.container1{
+    padding-right:2%;
+    display: inline-block;
+}
+.side-img1{
+    width: 100%;
+    padding:3% 0% 0% 0%;
+    
+    }
+ .experiences{
+    padding: 30px;
+    margin: 30px;
+    background-color: rgb(238, 251, 255);
+    border-radius: 20px;
+}
+.experience-item{
+    padding: 10px;
+    border-left: 1px solid rgba(137, 130, 247, .2);
+}
+.text{
+    text-align: center ;
+    color: white;
+    background-color:black;
+    line-height:200%;
+    padding: 2.5%;
+    
+   }
+
+
